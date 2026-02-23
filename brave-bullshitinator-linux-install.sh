@@ -1,6 +1,6 @@
 # Start
 echo "Starting Brave debullshitinator installer"
-echo "Brave debullshitinator is made by Mules Gaming. Find it here: https://github.com/MulesGaming/brave-debullshitinator"
+echo "The original Brave debullshitinator is made by Mules Gaming. Find it here: https://github.com/MulesGaming/brave-debullshitinator. This is a fork made by Rekko12"
 # Make dir
 sudo mkdir /etc/brave/policies/managed -p
 # Download file
