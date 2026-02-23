@@ -21,16 +21,3 @@ Brave debullshitinator uses [group policies](https://support.brave.com/hc/en-us/
 
 -------
 
-# Installation
-
-Linux: https://github.com/MulesGaming/brave-debullshitinator/wiki/Installation-instructions#linux
-
--------
-
-# Customizing
-
-[Please see the wiki for instructions on how to change modifications.](https://github.com/MulesGaming/brave-debullshitinator/wiki/Customization)
-
-# Additional Resources
-
-You can check out similar tools [here](https://github.com/MulesGaming/brave-debullshitinator/wiki/Additional-Resources#other-tools) and see domains to blacklist with your dns [here](https://github.com/MulesGaming/brave-debullshitinator/wiki/Additional-Resources#brave-telemetrytracking-dns-blacklists)
