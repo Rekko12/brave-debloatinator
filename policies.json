@@ -8,6 +8,9 @@
     "BravePlaylistEnabled": false,
     "BraveTalkDisabled": true,
     "TorDisabled": true,
+    "PaymentMethodQueryEnabled": false,
+    "AutofillAddressEnabled"; false,
+    "AutofillCreditCardEnabled": false,
     "PasswordManagerEnabled": false,
     "DnsOverHttpsMode": "automatic"
 }
