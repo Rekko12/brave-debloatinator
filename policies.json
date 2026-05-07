@@ -9,7 +9,7 @@
     "BraveTalkDisabled": true,
     "TorDisabled": true,
     "PaymentMethodQueryEnabled": false,
-    "AutofillAddressEnabled"; false,
+    "AutofillAddressEnabled": false;
     "AutofillCreditCardEnabled": false,
     "PasswordManagerEnabled": false,
     "DnsOverHttpsMode": "automatic"
